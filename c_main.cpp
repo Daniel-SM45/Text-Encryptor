@@ -6,7 +6,7 @@ using namespace std;
 int main() {
 	main_title();
 	char user_op_input, user_op_end_input;
-	cout << " >>> ";
+	cout << " >>>: ";
 	cin >> user_op_input;
 	user_option(user_op_input);
 	cout << " Continuar com o programa ? [S] [N]\n";
