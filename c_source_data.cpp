@@ -50,7 +50,7 @@ void decript_main(Decript& getWords) {
 	cout << " OUTPUT >>>: " << getWords << "\n";
 }
 
-void user_program_end_dialoge(char user_choice_end) {
+void user_program_end_dialog(char user_choice_end) {
     if (user_choice_end == 'S' || user_choice_end == 's') {
 		
 	}
