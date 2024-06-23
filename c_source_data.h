@@ -8,4 +8,4 @@ void decript_main(Decript& getWords);
 
 void main_title();
 void user_option(char);
-void user_program_end_dialoge(char);
+void user_program_end_dialog(char);
